@@ -8,4 +8,6 @@ public class Demo {
         System.out.println(11);
     }
     private int l;
+
+    private long show;
 }
